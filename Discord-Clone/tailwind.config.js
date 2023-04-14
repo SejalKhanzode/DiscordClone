@@ -5,6 +5,8 @@ module.exports = {
     extend: {},
   },
   plugins: [],
+  
+  // For external font
   fontFamily:{
     Whitney:["Whitney"],
     Ginto:["Ginto"],
